@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_No, thanks</name>
+   <tag></tag>
+   <elementGuidId>e16782bf-88cf-4cef-b25e-c0ab12dba0a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.VfPpkd-LgbsSe.VfPpkd-LgbsSe-OWXEXe-dgl2Hf.ksBjEc.lKxP2d.LQeN7.YOnsCc.waNn5b.K5aMGe.ZqhUjb.ztUP4e.tHCKTc.dHeVVb.w0hkKb.NXq6ed.VfPpkd-ksKsZd-mWPk3d.VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc > span.VfPpkd-vQzf8d</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/div[12]/div[2]/div/div[2]/div/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;No, thanks&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>36e4ddbe-f540-4ee6-bb49-5dc63f7f2c81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>V67aGc</value>
+      <webElementGuid>1b4b0474-e086-41d7-b864-23f9298b60df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VfPpkd-vQzf8d</value>
+      <webElementGuid>070ca3d6-fbd7-4253-9f08-81a3d9714665</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No, thanks</value>
+      <webElementGuid>cb2fdc6a-46f9-4a5a-8606-40bcb6590ab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/div[@class=&quot;VfPpkd-Sx9Kwc cC1eCc UDxLd PzCPDd SGcMTe VfPpkd-Sx9Kwc-OWXEXe-FNFY6c VfPpkd-Sx9Kwc-OWXEXe-s2gQvd&quot;]/div[@class=&quot;VfPpkd-wzTsW&quot;]/div[@class=&quot;VfPpkd-P5QLlc&quot;]/div[@class=&quot;VfPpkd-T0kwCb&quot;]/div[@class=&quot;i15yh&quot;]/div[1]/div[@class=&quot;VfPpkd-dgl2Hf-ppHlrf-sM5MNb&quot;]/button[@class=&quot;VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-dgl2Hf ksBjEc lKxP2d LQeN7 YOnsCc waNn5b K5aMGe ZqhUjb ztUP4e tHCKTc dHeVVb w0hkKb NXq6ed VfPpkd-ksKsZd-mWPk3d VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc&quot;]/span[@class=&quot;VfPpkd-vQzf8d&quot;]</value>
+      <webElementGuid>8ed25081-d26f-4585-8089-6b311d113e44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='yDmH0d']/div[12]/div[2]/div/div[2]/div/div/div/button/span</value>
+      <webElementGuid>c098764d-d255-4da5-9580-9a1b5340df37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dark theme'])[1]/following::span[1]</value>
+      <webElementGuid>ae2d77cd-5a07-49dd-8fd6-4f56460a3549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No, thanks']/parent::*</value>
+      <webElementGuid>56115ef9-9f94-4872-9f15-702e33b76342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button/span</value>
+      <webElementGuid>ea9780da-44be-4612-9e2a-b7b5aecc3e44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'No, thanks' or . = 'No, thanks')]</value>
+      <webElementGuid>b2540707-b67a-44da-8975-d2e95415e980</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

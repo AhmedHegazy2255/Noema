@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_06Assert User On HomePage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d951ed2c-dd8c-4a3d-a662-c24fca90992a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_dark theme_VfPpkd-RLmnJb</name>
+   <tag></tag>
+   <elementGuidId>0343d49b-65a8-4015-921d-8abdfb2694db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.VfPpkd-LgbsSe.VfPpkd-LgbsSe-OWXEXe-dgl2Hf.ksBjEc.lKxP2d.LQeN7.YOnsCc.waNn5b.K5aMGe.ZqhUjb.ztUP4e.tHCKTc.dHeVVb.w0hkKb.NXq6ed.VfPpkd-ksKsZd-mWPk3d.VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc > div.VfPpkd-RLmnJb</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/div[12]/div[2]/div/div[2]/div/div/div/button/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;No, thanks&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3ebb46b4-2b23-4a82-b4e3-33081dfc6817</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VfPpkd-RLmnJb</value>
+      <webElementGuid>3f3fdbe3-d66b-4fee-b20d-16ab9434ab10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/div[@class=&quot;VfPpkd-Sx9Kwc cC1eCc UDxLd PzCPDd SGcMTe VfPpkd-Sx9Kwc-OWXEXe-FNFY6c VfPpkd-Sx9Kwc-OWXEXe-s2gQvd&quot;]/div[@class=&quot;VfPpkd-wzTsW&quot;]/div[@class=&quot;VfPpkd-P5QLlc&quot;]/div[@class=&quot;VfPpkd-T0kwCb&quot;]/div[@class=&quot;i15yh&quot;]/div[1]/div[@class=&quot;VfPpkd-dgl2Hf-ppHlrf-sM5MNb&quot;]/button[@class=&quot;VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-dgl2Hf ksBjEc lKxP2d LQeN7 YOnsCc waNn5b K5aMGe ZqhUjb ztUP4e tHCKTc dHeVVb w0hkKb NXq6ed VfPpkd-ksKsZd-mWPk3d VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc&quot;]/div[@class=&quot;VfPpkd-RLmnJb&quot;]</value>
+      <webElementGuid>b600f455-6b00-40e6-8867-dc7ba7405244</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='yDmH0d']/div[12]/div[2]/div/div[2]/div/div/div/button/div[3]</value>
+      <webElementGuid>f0f5994e-4ca9-46a9-9234-385e28a13418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button/div[3]</value>
+      <webElementGuid>05dd9373-4a95-489f-8ac3-75cc1e21a80b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
